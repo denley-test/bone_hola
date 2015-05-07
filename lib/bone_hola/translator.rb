@@ -5,12 +5,12 @@ class BoneHola::Translator
 
   def hi
     case @language
-      when "chinese"
-        "你好，世界!"
+      when "english"
+        "Hello World!"
       when "spanish"
         "hola mundo!"
       else
-        "Hello World!"
+        "你好，世界!"
     end
   end
 end

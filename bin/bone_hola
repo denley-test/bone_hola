@@ -1,5 +1,5 @@
 #! /usr/bin/env ruby
 
 require 'bone_hola'
-language = ARGV.length == 0? "english" : ARGV[0]
+language = ARGV.length == 0? nil : ARGV[0]
 puts(BoneHola.hi(language))

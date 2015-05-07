@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = BoneHola::VERSION
   spec.authors       = ["xiao_dli"]
   spec.email         = ["ietjxdl@gmail.com"]
-  spec.summary       = %q{Support Chinese's hola.}
-  spec.description   = %q{My first gem.}
+  spec.summary       = %q{My first gem.}
+  spec.description   = %q{Support Chinese's hola.}
   spec.homepage      = "http://rubygems.org/gems/bone_hola"
   spec.license       = "MIT"
 
