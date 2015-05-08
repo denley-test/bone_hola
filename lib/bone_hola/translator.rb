@@ -1,12 +1,12 @@
+# translater content by language
 class BoneHola::Translator
-  # translater content by language
+  # init say language
   def initialize(language)
-    # init say language
     @language = language
   end
 
+  # Say hi to the world through tree languanges
   def hi
-    # Say hi to the world through tree languanges
     case @language
       when "english"
         "Hello World!"
