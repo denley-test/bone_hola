@@ -2,7 +2,7 @@ require 'test/unit'
 require 'bone_hola'
 
 class BoneHolaTest < Test::Unit::TestCase
-  def test_chinese_hola
+  def test_default_or_other_hola
     assert_equal("你好，世界!", BoneHola.hi())
   end
 
