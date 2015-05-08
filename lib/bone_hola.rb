@@ -2,7 +2,7 @@ require "bone_hola/version"
 require "bone_hola/translator"
 
 module BoneHola
-  # Your code goes here...
+  # Say hi to the world!.
   def self.hi(language = nil)
     translator = Translator.new(language)
     translator.hi

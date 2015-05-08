@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    $ bone_hola
+    $ bone_hola english
+    $ bone_hola spanish
 
 ## Contributing
 
