@@ -1,6 +1,6 @@
 # BoneHola
 
-TODO: Write a gem description
+Support Chinese hola
 
 [![Build Status](https://travis-ci.org/ietjxdl/bone_hola.svg?branch=master)](https://travis-ci.org/ietjxdl/bone_hola)
 
