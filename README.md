@@ -1,6 +1,6 @@
 # BoneHola
 [![Build Status][travis_image]][travis_url]
-[![Dependency Status](gemnasium_image)][gemnasium_url]
+[![Dependency Status][gemnasium_image]][gemnasium_url]
 [![MIT License][license-image]][license-url]
 
 Support Chinese hola
