@@ -1,8 +1,8 @@
 # BoneHola
+[![Build Status](https://travis-ci.org/ietjxdl/bone_hola.svg?branch=master)](https://travis-ci.org/ietjxdl/bone_hola)
+[![Dependency Status](https://gemnasium.com/ietjxdl/bone_hola.svg)](https://gemnasium.com/ietjxdl/bone_hola)
 
 Support Chinese hola
-
-[![Build Status](https://travis-ci.org/ietjxdl/bone_hola.svg?branch=master)](https://travis-ci.org/ietjxdl/bone_hola)
 
 ## Installation
 
