@@ -1,6 +1,6 @@
 # BoneHola
-[![Build Status](https://travis-ci.org/ietjxdl/bone_hola.svg?branch=master)](https://travis-ci.org/ietjxdl/bone_hola)
-[![Dependency Status](https://gemnasium.com/ietjxdl/bone_hola.svg)](https://gemnasium.com/ietjxdl/bone_hola)
+[![Build Status](travis_image)](travis_url)
+[![Dependency Status](gemnasium_image)](gemnasium_url)
 
 Support Chinese hola
 
@@ -33,3 +33,9 @@ Or install it yourself as:
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+
+[travis_image]: https://travis-ci.org/ietjxdl/bone_hola.svg?branch=master
+[travis_url]: https://travis-ci.org/ietjxdl/bone_hola
+
+[gemnasium_image]: https://gemnasium.com/ietjxdl/bone_hola.svg
+[gemnasium_url]: https://gemnasium.com/ietjxdl/bone_hola
