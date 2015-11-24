@@ -1,6 +1,7 @@
 # BoneHola
 [![Build Status](travis_image)](travis_url)
 [![Dependency Status](gemnasium_image)](gemnasium_url)
+[![MIT License][license-image]][license-url]
 
 Support Chinese hola
 
@@ -39,3 +40,6 @@ Or install it yourself as:
 
 [gemnasium_image]: https://gemnasium.com/ietjxdl/bone_hola.svg
 [gemnasium_url]: https://gemnasium.com/ietjxdl/bone_hola
+
+[license-image]: http://img.shields.io/badge/license-MIT-blue.svg?style=flat
+[license-url]: LICENSE
