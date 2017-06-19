@@ -6,8 +6,8 @@ require 'bone_hola/version'
 Gem::Specification.new do |spec|
   spec.name          = "bone_hola"
   spec.version       = BoneHola::VERSION
-  spec.authors       = ["xiao_dli"]
-  spec.email         = ["ietjxdl@gmail.com"]
+  spec.authors       = ["Denley Hsiao"]
+  spec.email         = ["denley@justtodo.com"]
   spec.summary       = %q{My first gem.}
   spec.description   = %q{Support Chinese's hola.}
   spec.homepage      = "http://rubygems.org/gems/bone_hola"
